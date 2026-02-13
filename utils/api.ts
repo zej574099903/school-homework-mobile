@@ -18,7 +18,7 @@ const getBaseUrl = () => {
             return `http://${localIP}:3000/api`;
         }
     }
-    return 'https://school-homework-iota.vercel.app/api';
+    return 'https://zhouyiman.zhouenjun.top/api';
 };
 
 const API_BASE_URL = getBaseUrl();
