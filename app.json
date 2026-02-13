@@ -29,12 +29,19 @@
       "expo-router",
       "expo-font"
     ],
+    "scheme": "school-homework",
     "extra": {
       "router": {},
       "eas": {
         "projectId": "b3c076b3-c984-465a-a4cc-291d9c2aa56f"
       }
     },
-    "owner": "15158802043"
+    "owner": "15158802043",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b3c076b3-c984-465a-a4cc-291d9c2aa56f"
+    }
   }
 }
